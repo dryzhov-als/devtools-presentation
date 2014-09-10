@@ -149,6 +149,9 @@ reload css, js
 grunt-parallel + grunt-express
 server.js with connect.static
 
+3.3) ubuntu users
+sudo apt-get remove node
+
 
 4) setup dev tools on imprimatur using nodejs and npm
 
